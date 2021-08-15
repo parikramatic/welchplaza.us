@@ -1,2 +1,2 @@
-# welchplaza.us
-GitHub Pages site for WPC
+# www.welchplaza.us
+Welcome home... time to get to know your neighbors
