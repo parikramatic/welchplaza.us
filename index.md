@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to Welch Plaza Condominiums</h2>
-<h3 align="center">in beautiful Central District, Seattle</h2>
+<h3 align="center">in beautiful Central District, Seattle</h3>
 
 <p align="center"><img src="https://d3mi7e2vp4lzjl.cloudfront.net/a3edd0bb98b5f9ae0b3be34a63838e83882735bb_img_14/origin.jpg" alt="Image of WPC" width="600"/></p>
 
