@@ -16,21 +16,35 @@ On this page, we will cover
 <br/><br/>
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
-&#10004; Change the locks  
-&#10004; Update your address with USPS  
-&#10004; Reach out to the board* & introduce yourself, inform of move-in date (2 week notice required)  
-&#10004; Set up auto-payment of HOA dues with Kappes Miller  
-&#10004; Review the HOA Rules and Regulations (R&R)  
-&#10004; Set up water with Conservice  
-&#10004; Set up power with Seattle City Light, billed every two months  
-&#10004; Set up internet (we have coverage with Wave, CenturyLink and Comcast)  
-&#10004; Set up a Package Concierge account to start receiving packages  
-&#10004; Join the owners email group (groups.io), contact: Dave B*  
-&#10004; Ask Kappes Miller to add you to a second owners email group  
-&#10004; Ask Kappes Miller to add your name(s) to the call box  
-&#10004; Contact our maintenance person, Sherwin* (via the board) for elevator pads during move-in  
-&#10004; If so inclined, get a second building key & fob from Kappes Miller  
-&#10004; If you park in the garage, consider getting a fob for the Verse entrance, contact the Verse office at 402 22nd Ave S  
+&#10004; Change the locks
+
+&#10004; Update your address with USPS
+
+&#10004; Reach out to the board* & introduce yourself, inform of move-in date (2 week notice required)
+
+&#10004; Set up auto-payment of HOA dues with Kappes Miller
+
+&#10004; Review the HOA Rules and Regulations (R&R)
+
+&#10004; Set up water with Conservice
+
+&#10004; Set up power with Seattle City Light, billed every two months
+
+&#10004; Set up internet (we have coverage with Wave, CenturyLink and Comcast)
+
+&#10004; Set up a Package Concierge account to start receiving packages
+
+&#10004; Join the owners email group (groups.io), contact: Dave B*
+
+&#10004; Ask Kappes Miller to add you to a second owners email group
+
+&#10004; Ask Kappes Miller to add your name(s) to the call box
+
+&#10004; Contact our maintenance person, Sherwin* (via the board) for elevator pads during move-in
+
+&#10004; If so inclined, get a second building key & fob from Kappes Miller
+
+&#10004; If you park in the garage, consider getting a fob for the Verse entrance, contact the Verse office at 402 22nd Ave S
 
 <br/><br/>
 <h3 align="center">USEFUL NOTES</h3>
