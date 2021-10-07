@@ -11,3 +11,7 @@ ul.task-list-item {
   list-style-image: none !important;
   list-style-type: none !important;
 }
+
+div.wrapper section ul li::marker {
+  display: none !important;
+}
