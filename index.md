@@ -14,7 +14,7 @@ On this page, we will cover
 <br/><br/>
 <a name="checklist"></a>
 <h2>MOVE-IN CHECKLIST</h2>
-<br/><br/>
+<br/>
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
 &#10004; Change the locks
@@ -50,7 +50,7 @@ On this page, we will cover
 <br/><br/>
 <a name="useful"></a>
 <h2>USEFUL NOTES</h2>
-<br/><br/>
+<br/>
 
 Here is a collection of pearls of wisdom from current residents that should save you some trouble in the long run
 
@@ -83,7 +83,7 @@ Here is a collection of pearls of wisdom from current residents that should save
 <br/><br/>
 <a name="businesses"></a>
 <h2>LOCAL BUSINESSES</h2>
-<br/><br/>
+<br/>
 
 We are no longer a food desert! The CD has much to offer in terms of retail:
 - Big Chains: Amazon Fresh for groceries, and Starbucks for coffee
@@ -97,7 +97,7 @@ We are no longer a food desert! The CD has much to offer in terms of retail:
 <br/><br/>
 <a name="central"></a>
 <h2>CENTRAL DISTRICT</h2>
-<br/><br/>
+<br/>
 
 A few notes about the CD:
 - 23rd Ave is a common parade route in the summertime
