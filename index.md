@@ -6,12 +6,13 @@
 Congratulations on your new home. There’s a lot to love about living at WPC. We created this website to help new owners get settled in and ease the transition. Please expect this page to evolve over time as new information comes in.
 
 On this page, we will cover
-- A **move-in checklist** for your first few days here
-- Some **useful notes** from our fellow residents
-- A list of **local businesses**, that is getting longer with time :)
-- Explore the **Central District** neighborhood
+- A [**move-in checklist**](#checklist) for your first few days here
+- Some [**useful notes**](#useful) from our fellow residents
+- A list of [**local businesses**](#businesses), that is getting longer with time :)
+- Explore the [**Central District**](#central) neighborhood
 
 <br/><br/>
+<a name="checklist"></a>
 <h3 align="center">MOVE-IN CHECKLIST</h3>
 <br/><br/>
 
@@ -47,6 +48,7 @@ On this page, we will cover
 &#10004; If you park in the garage, consider getting a fob for the Verse entrance, contact the Verse office at 402 22nd Ave S
 
 <br/><br/>
+<a name="useful"></a>
 <h3 align="center">USEFUL NOTES</h3>
 <br/><br/>
 
@@ -55,6 +57,8 @@ Here is a collection of pearls of wisdom from current residents that should save
 - Attending the monthly HOA board meetings is strongly recommended, even if virtual.
 
 - Present a proposal for any home improvements to the board for approval first before committing to any work. Board approval is easily achieved provided you meet the requirements laid out in the HOA R&R.
+
+- Our contact at Kappes Miller is Mike G*, please route any KM issues via Mike.
 
 - The garage is shared with the Verse and has 3 entrances. NOTE: This is not a secured garage. We recommend not leaving any valuables in your vehicle overnight. There have been multiple reports of break-ins, law enforcement action is scarce and cameras do not act as sufficient deterrents.
 
@@ -77,6 +81,7 @@ Here is a collection of pearls of wisdom from current residents that should save
 - Quiet hours are 10pm to 7am, please be courteous to your neighbors during these hours.
 
 <br/><br/>
+<a name="businesses"></a>
 <h3 align="center">LOCAL BUSINESSES</h3>
 <br/><br/>
 
@@ -90,6 +95,7 @@ We are no longer a food desert! The CD has much to offer in terms of retail:
 - Access to amazing cheap eats in the International District
 
 <br/><br/>
+<a name="central"></a>
 <h3 align="center">CENTRAL DISTRICT</h3>
 <br/><br/>
 
