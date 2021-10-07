@@ -7,10 +7,11 @@ Congratulations on your new home. There's a lot to love about living at WPC. We 
 
 While the content for this page is being assembled, here is a quick checklist for reference:
 
-- &#10004; change the locks
-- &#10004; update your address with USPS
-- &#10004; reach out to the board & introduce yourself
-- &#10004; set up auto-payment with Kappes Miller
-- &#10004; review the HOA rules
-- &#10004; join the owners email group
-- &#10004; ask Kappes Miller to add your name(s) to the call box
+<!--- Remember the two trailing spaces to get the line breaks after each item -->
+&#10004; change the locks  
+&#10004; update your address with USPS  
+&#10004; reach out to the board & introduce yourself  
+&#10004; set up auto-payment with Kappes Miller  
+&#10004; review the HOA rules  
+&#10004; join the owners email group  
+&#10004; ask Kappes Miller to add your name(s) to the call box  
