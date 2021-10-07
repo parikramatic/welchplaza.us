@@ -7,11 +7,6 @@
 div#header{ display: none !important; }
 
 // Hide the bullet points default formatting
-ul.task-list-item {
-  list-style-image: none !important;
+ul
   list-style-type: none !important;
-}
-
-div.wrapper section ul li::marker {
-  display: none !important;
 }
