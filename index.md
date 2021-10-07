@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to Welch Plaza Condominiums</h2>
 <h3 align="center">in beautiful Central District, Seattle</h3>
 
-<p align="center"><img src="https://d3mi7e2vp4lzjl.cloudfront.net/a3edd0bb98b5f9ae0b3be34a63838e83882735bb_img_14/origin.jpg" alt="Image of WPC" width="600"/></p>
+<p align="center"><img src="https://i.imgur.com/b8La1zZ.jpg" alt="Image of WPC" width="600"/></p>
 
 Congratulations on your new home. There’s a lot to love about living at WPC. We created this website to help new owners get settled in and ease the transition. Please expect this page to evolve over time as new information comes in.
 
