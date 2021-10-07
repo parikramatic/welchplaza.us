@@ -17,3 +17,9 @@ While the content for this page is being assembled, here is a quick checklist fo
 &#10004; set up power with Seattle City Light, billed every two months  
 &#10004; set up internet (we have coverage with Wave, CenturyLink and Comcast)  
 &#10004; set up a Package Concierge account to start receiving packages  
+&#10004; join the owners email group (groups.io), contact: Dave B*  
+&#10004; ask Kappes Miller to add you to a second owners email group  
+&#10004; ask Kappes Miller to add your name(s) to the call box  
+&#10004; contact our maintenance person, Sherwin* (via the board) for elevator pads during move-in  
+&#10004; if so inclined, get a second building key & fob from Kappes Miller  
+&#10004; if you park in the garage, consider getting a fob for the Verse entrance, contact the Verse office at 402 22nd Ave S  
