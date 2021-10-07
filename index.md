@@ -13,7 +13,7 @@ On this page, we will cover
 
 <br/><br/>
 <a name="checklist"></a>
-<h3 align="center">MOVE-IN CHECKLIST</h3>
+<h2>MOVE-IN CHECKLIST</h2>
 <br/><br/>
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
@@ -49,7 +49,7 @@ On this page, we will cover
 
 <br/><br/>
 <a name="useful"></a>
-<h3 align="center">USEFUL NOTES</h3>
+<h2>USEFUL NOTES</h2>
 <br/><br/>
 
 Here is a collection of pearls of wisdom from current residents that should save you some trouble in the long run
@@ -82,7 +82,7 @@ Here is a collection of pearls of wisdom from current residents that should save
 
 <br/><br/>
 <a name="businesses"></a>
-<h3 align="center">LOCAL BUSINESSES</h3>
+<h2>LOCAL BUSINESSES</h2>
 <br/><br/>
 
 We are no longer a food desert! The CD has much to offer in terms of retail:
@@ -96,7 +96,7 @@ We are no longer a food desert! The CD has much to offer in terms of retail:
 
 <br/><br/>
 <a name="central"></a>
-<h3 align="center">CENTRAL DISTRICT</h3>
+<h2>CENTRAL DISTRICT</h2>
 <br/><br/>
 
 A few notes about the CD:
