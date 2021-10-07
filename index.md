@@ -8,7 +8,9 @@ Congratulations on your new home. There's a lot to love about living at WPC. We 
 While the content for this page is being assembled, here is a quick checklist for reference:
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
-&#10004; change the locks
+- &#10004; change the locks
+
+
 &#10004; update your address with USPS
 &#10004; reach out to the board* & introduce yourself, inform of move-in date (2 week notice required)
 &#10004; set up auto-payment of HOA dues with Kappes Miller
