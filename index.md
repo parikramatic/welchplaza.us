@@ -76,3 +76,30 @@ Here is a collection of pearls of wisdom from current residents that should save
 
 - Quiet hours are 10pm to 7am, please be courteous to your neighbors during these hours.
 
+<br/><br/>
+<h3 align="center">LOCAL BUSINESSES</h3>
+<br/><br/>
+
+We are no longer a food desert! The CD has much to offer in terms of retail:
+- Big Chains: Amazon Fresh for groceries, and Starbucks for coffee
+
+- Bars and Restaurants: Seattle Fish Guys, Standard Brewing, Temple Pastries, Woodshop BBQ, Catfish Corner, Med Mix, Central Pizza 
+
+- Spotlight on Black-owned businesses: Boosh, Catfish Corner
+
+- Access to amazing cheap eats in the International District
+
+<br/><br/>
+<h3 align="center">CENTRAL DISTRICT</h3>
+<br/><br/>
+
+A few notes about the CD:
+- 23rd Ave is a common parade route in the summertime
+
+- 23rd and Jackson is a future light rail stop
+
+- The Community Center, near Garfield High School, provides many amenities
+
+- Seattle Library's Douglass-Truth branch is a short walk away
+
+- Check out our local green spaces: Judkins Park, Jimi Hendrix Park, Leschi & Frink Parks, Pratt Park
