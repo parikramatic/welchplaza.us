@@ -8,10 +8,12 @@ Congratulations on your new home. There's a lot to love about living at WPC. We 
 While the content for this page is being assembled, here is a quick checklist for reference:
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
-&#10004; change the locks  
-&#10004; update your address with USPS  
-&#10004; reach out to the board & introduce yourself  
-&#10004; set up auto-payment with Kappes Miller  
-&#10004; review the HOA rules  
-&#10004; join the owners email group  
-&#10004; ask Kappes Miller to add your name(s) to the call box  
+&#10004; change the locks
+&#10004; update your address with USPS
+&#10004; reach out to the board* & introduce yourself, inform of move-in date (2 week notice required)
+&#10004; set up auto-payment of HOA dues with Kappes Miller
+&#10004; review the HOA Rules and Regulations (R&R)
+&#10004; set up water with Conservice
+&#10004; set up power with Seattle City Light, billed every two months
+&#10004; set up internet (we have coverage with Wave, CenturyLink and Comcast)
+&#10004; set up a Package Concierge account to start receiving packages
