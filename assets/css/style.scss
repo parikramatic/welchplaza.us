@@ -2,4 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Remove the header
 div#header{ display: none !important; }
+
+// Hide the bullet points default formatting
+task-list-item {
+  list-style-image: none;
+  list-style-type: none;
+}
