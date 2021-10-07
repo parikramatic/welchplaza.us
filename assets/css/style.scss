@@ -7,7 +7,7 @@
 div#header{ display: none !important; }
 
 // Hide the bullet points default formatting
-task-list-item {
-  list-style-image: none;
-  list-style-type: none;
+ul.task-list-item {
+  list-style-image: none !important;
+  list-style-type: none !important;
 }
