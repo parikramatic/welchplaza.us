@@ -1,5 +1,1 @@
 theme: jekyll-theme-midnight
-
-# Attempt to disable the "View on GitHub" button
-github:
-  is_project_page: false
