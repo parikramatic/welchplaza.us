@@ -4,4 +4,10 @@
 @import "{{ site.theme }}";
 
 // Remove the header
-div#header{ display: none !important; }
+div#header{
+  display: none !important;
+}
+
+h2 {
+  color: #ffcc00;
+}
