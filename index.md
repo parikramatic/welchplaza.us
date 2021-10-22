@@ -109,4 +109,4 @@ A few notes about the CD:
 - Seattle Library's Douglass-Truth branch is a short walk away
 
 - Check out our local green spaces: Judkins Park, Jimi Hendrix Park, Leschi & Frink Parks, Pratt Park
-- 
+
