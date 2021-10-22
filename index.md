@@ -1,3 +1,7 @@
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon-32x32.png">
+</head>
+<body>
 <h2 align="center">Welcome to Welch Plaza Condominiums</h2>
 <h3 align="center">in beautiful Central District, Seattle</h3>
 
@@ -109,3 +113,4 @@ A few notes about the CD:
 - Seattle Library's Douglass-Truth branch is a short walk away
 
 - Check out our local green spaces: Judkins Park, Jimi Hendrix Park, Leschi & Frink Parks, Pratt Park
+</body>
