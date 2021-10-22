@@ -13,7 +13,7 @@ On this page, we will cover
 
 <br/><br/>
 <a name="checklist"></a>
-<h2>MOVE-IN CHECKLIST</h2>
+<h2 align="center">MOVE-IN CHECKLIST</h2>
 <br/>
 
 <!--- Remember the two trailing spaces to get the line breaks after each item -->
@@ -49,7 +49,7 @@ On this page, we will cover
 
 <br/><br/>
 <a name="useful"></a>
-<h2>USEFUL NOTES</h2>
+<h2 align="center">USEFUL NOTES</h2>
 <br/>
 
 Here is a collection of pearls of wisdom from current residents that should save you some trouble in the long run
@@ -62,7 +62,7 @@ Here is a collection of pearls of wisdom from current residents that should save
 
 - The garage is shared with the Verse and has 3 entrances. NOTE: This is not a secured garage. We recommend not leaving any valuables in your vehicle overnight. There have been multiple reports of break-ins, law enforcement action is scarce and cameras do not act as sufficient deterrents.
 
-- Pick up your packages at the Package Concierge box on P2, and instruct your package delivery person to use the box for deliveries. Packages delivered to the lobby instead of Package Concierge are at risk of theft and must be picked up promptly, and future deliveries routed to P2.
+- Pick up your packages at the Package Concierge box on P2, and instruct your package delivery person to use the box for deliveries. Packages delivered to the lobby instead of Package Concierge are at risk of theft and must be picked up promptly.
 
 - There are more than a few ways to pay your HOA dues to KM, pick one that works for you:
   - Set up auto-pay on the KM website to withdraw funds from your checking account automatically
@@ -82,7 +82,7 @@ Here is a collection of pearls of wisdom from current residents that should save
 
 <br/><br/>
 <a name="businesses"></a>
-<h2>LOCAL BUSINESSES</h2>
+<h2 align="center">LOCAL BUSINESSES</h2>
 <br/>
 
 We are no longer a food desert! The CD has much to offer in terms of retail:
@@ -96,7 +96,7 @@ We are no longer a food desert! The CD has much to offer in terms of retail:
 
 <br/><br/>
 <a name="central"></a>
-<h2>CENTRAL DISTRICT</h2>
+<h2 align="center">CENTRAL DISTRICT</h2>
 <br/>
 
 A few notes about the CD:
